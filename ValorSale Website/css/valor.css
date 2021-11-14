@@ -1,0 +1,134 @@
+/* Link External StylesSheet*/
+/* Wrapper*/
+.wrapper{
+	width: 940px;
+	padding:10px;
+	margin:auto;
+	border:1px solid #517e8f;
+	border-radius:10px;
+	background-color:rgb(128,0,0);
+	
+}
+/*Address*/
+#Address{
+	color:white;
+}
+/* Paragraph color */ 
+p{
+color:white;
+
+}
+.icons{
+	float:right;
+	margin-right:10px;
+	margin-top:-6px;
+	
+}
+section {
+	color:black;
+	
+}
+/* Article */
+article{
+	color:black;
+	text-align:center;
+	font-family:Arial;
+	text-shadow: 2px 2px 4px #000000;
+}
+/* Background image */
+body{
+	background-image:url(..//image/background.jpg);
+
+}
+#guyvervideos{
+	text-align:center;
+}
+.videos{
+	border:0px; 
+}
+/* font color */
+li{
+	color:white;
+}
+h4{
+	color:white;
+}
+h1{
+	color:white;
+	
+}
+/*header*/
+header{
+	background-image:url(../image/Teamvalor.jpg);
+	height:100px;
+}
+/* Page Layout */
+nav{
+	float:left;
+	width:940px;
+	height:40px;
+	margin-bottom:10px;
+	background-color:#030e17;
+	background-image:url(..//images/navBG.png);
+}
+.btn-container{
+	margin:auto;
+	width:650px;
+}
+.btn{
+	float:left;
+	width:100px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	font-weight:bold;
+	color:white;
+	text-decoration:none;
+	text-shadow:2px 2px 4px #ff0000
+}
+.btn:hover{
+	float:left;
+	width:100px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	font-weight:bold;
+	color:black;
+	text-decoration:underline;
+	text-shadow:2px 2px 4px #ff0000
+}
+#left{
+	float:left;
+	width:660px;
+	padding:10px;
+	margin-bottom:10px;
+}
+#right{
+	float:right;
+	width:240px;
+	padding:5px;
+	margin-bottom:10px;
+}
+#sidebar{
+	float:left;
+	width:240px;
+	height:30px;
+	margin-bottom:10px;
+	background-position:200px center;
+}
+.side-thumb{
+	float:left;
+	border:1px solid white;
+	margin-bottom:10px;
+}
+
+/*footer*/
+footer{
+	color:black;
+	clear:both;
+	width:100%;
+	height:40px;
+	font-size:10px;
+	text-align:center;
+	border-top:2px solid #3c6777;
+}
